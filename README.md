@@ -1,0 +1,1 @@
+A small tool to generate random passwords. It can help you insert a special string to identify which platform the password is from, as well as it can generate multiple passwords at once. Enter the password length, the number you want to generate, and the special string to generate passwords that are saved to an Excel file.
